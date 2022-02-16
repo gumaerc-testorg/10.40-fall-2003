@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Solution to 2nd Exam.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-40-chemical-engineering-thermodynamics-fall-2003/2d82cb8c8a5fbfe460f26442b52a73d6_exam2_2_soln.pdf
+file: /media/courses/10-40-chemical-engineering-thermodynamics-fall-2003/2d82cb8c8a5fbfe460f26442b52a73d6_exam2_2_soln.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: exam2_2_soln.pdf
 uid: 2d82cb8c-8a5f-bfe4-60f2-6442b52a73d6

@@ -4,8 +4,12 @@ description: This handout contains Supplementary Notes for Chapters 4. These not
   are intended to summarize and complement the material presented in our textbook,
   the 3rd edition of 'Thermodynamics and Its Applications', and discussed in our graduate
   thermodynamics class (10.40).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-40-chemical-engineering-thermodynamics-fall-2003/aea59133e5a4de8675700ec04eef57fc_suppnotes_ch04.pdf
+file: /media/courses/10-40-chemical-engineering-thermodynamics-fall-2003/aea59133e5a4de8675700ec04eef57fc_suppnotes_ch04.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: suppnotes_ch04.pdf
 uid: aea59133-e5a4-de86-7570-0ec04eef57fc

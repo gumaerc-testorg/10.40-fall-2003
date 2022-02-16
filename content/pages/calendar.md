@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 4f6b84a1-174c-0269-5236-2c35faf8fe61
 ---
@@ -44,7 +46,7 @@ Course Outline; Motivation to Connect Classical Concepts and Laws to Physical Pr
 {{< tdclose >}}
 {{< tdopen >}}
 Postulatory Approach  
-1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO2 Fire Extinguisher\]
+1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO{{< sub "2" >}} Fire Extinguisher\]
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -200,7 +202,7 @@ Pure Component Properties; Fundundamental Equation; Theorem of Corresponding Sta
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity Cp\*
+Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity C{{< sub "p" >}}\*
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -236,7 +238,7 @@ Assignment 4 due
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; _ΔGEX_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
+Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; _ΔG{{< sup "EX" >}}_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
 {{< tdclose >}}
 {{< tdopen >}}
 

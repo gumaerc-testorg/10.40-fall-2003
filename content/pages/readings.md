@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 127a7954-257b-d858-50e7-bfdedfeb3e92
 ---
@@ -48,7 +51,7 @@ Handouts
 {{< tdclose >}}
 {{< tdopen >}}
 Postulatory Approach  
-1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO2 Fire Extinguisher\]
+1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO{{< sub "2" >}} Fire Extinguisher\]
 {{< tdclose >}}
 {{< tdopen >}}
 1 (all sections), 2 (all sections), 3.1-3.8
@@ -206,7 +209,7 @@ Pure Component Properties; Fundundamental Equation; Theorem of Corresponding Sta
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity Cp\*
+Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity C{{< sub "p" >}}\*
 {{< tdclose >}}
 {{< tdopen >}}
 8.3-8.4
@@ -242,7 +245,7 @@ Mixtures; _PVTN EOSs;_ Partial Molar Properties; Gibbs-Duhem Relation; Mixing Fu
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; Δ_GEX_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
+Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; Δ_G{{< sup "EX" >}}_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
 {{< tdclose >}}
 {{< tdopen >}}
 9.8, 11.2, 11.4, 11.7, 11.9
