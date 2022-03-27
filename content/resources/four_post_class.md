@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7e11923-9c0e-66f8-00fb-855b28c88cbb
 resourcetype: Document
 title: four_post_class.pdf
 uid: 775450da-fb2d-16a5-b45f-72d126030f67

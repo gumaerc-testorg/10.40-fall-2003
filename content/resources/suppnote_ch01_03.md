@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7e11923-9c0e-66f8-00fb-855b28c88cbb
 resourcetype: Document
 title: suppnote_ch01_03.pdf
 uid: 3cfb0d0b-f653-a61f-ae75-544cb315bc7b

@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7e11923-9c0e-66f8-00fb-855b28c88cbb
 resourcetype: Document
 title: suppnotes_ch14.pdf
 uid: 32a9975c-e77d-dabe-4e09-f0d36547aee8

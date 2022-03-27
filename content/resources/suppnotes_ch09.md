@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7e11923-9c0e-66f8-00fb-855b28c88cbb
 resourcetype: Document
 title: suppnotes_ch09.pdf
 uid: dc17c6b7-1972-2541-4f77-39ced80a76fd

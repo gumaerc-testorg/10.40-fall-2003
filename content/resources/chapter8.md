@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: d7e11923-9c0e-66f8-00fb-855b28c88cbb
 resourcetype: Document
 title: chapter8.pdf
 uid: 5f036f2e-abaf-5709-5fde-e540ee632bc0

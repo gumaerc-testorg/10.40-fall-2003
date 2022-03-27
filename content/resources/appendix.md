@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 127a7954-257b-d858-50e7-bfdedfeb3e92
 resourcetype: Document
 title: appendix.pdf
 uid: e7b51076-ef1a-087f-af34-56d5ab224b5e

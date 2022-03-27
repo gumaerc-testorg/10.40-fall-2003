@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: 4f6b84a1-174c-0269-5236-2c35faf8fe61
 resourcetype: Document
 title: calendar_1040.pdf
 uid: 60cb3eff-4b79-6afb-f3cb-60d6d0cdbfa1
