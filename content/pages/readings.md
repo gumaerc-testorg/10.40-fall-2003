@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -128,7 +129,7 @@ Calculus of Thermodynamics; Gibbs Fundamental Equation; Graphical Interpretation
 {{< tdopen >}}
 5.1-5.4  
   
-Thermodynamic Properties of Pure Materials ([PDF]({{< baseurl >}}/resources/class_8))
+Thermodynamic Properties of Pure Materials ({{% resource_link e5ac6401-3a78-1cb7-c31c-57bdeea5dddf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +305,7 @@ Fundamental Principles of Quantum and Classical Statistical Mechanics - N-body P
 {{< tdopen >}}
 10.1, handouts  
   
-Fundamental Principles of Quantum and Classical Statistical Mechanics ([PDF]({{< baseurl >}}/resources/lecture21notes))
+Fundamental Principles of Quantum and Classical Statistical Mechanics ({{% resource_link fdd38846-e422-a48a-9b87-2a045e9f65f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -318,7 +319,7 @@ Postulates of Statistical Mechanics; Gibbs Ensembles - Micro-canonical and Canon
 {{< tdopen >}}
 10.1, handouts  
   
-Postulates of Statistical Mechanics, Gibbs Ensembles ([PDF]({{< baseurl >}}/resources/lecture22notes))
+Postulates of Statistical Mechanics, Gibbs Ensembles ({{% resource_link 99ccbfb9-afa1-988d-3ce2-78c88c883c09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +333,7 @@ Computation of Ideal Gas Properties from Intramolecular Effects - Translation, R
 {{< tdopen >}}
 10.1, handouts  
   
-Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))
+Computation of the Properties of Ideal Gases ({{% resource_link b50ddddb-c5f6-0b83-7b06-d608428a017b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,9 +347,9 @@ Computation of Ideal Gas Properties from Intramolecular Effects - Translation, R
 {{< tdopen >}}
 10.1, handouts  
   
-Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))  
+Computation of the Properties of Ideal Gases ({{% resource_link b50ddddb-c5f6-0b83-7b06-d608428a017b "PDF" %}})  
   
-Appendix to Session 21-24 Statistical Mechanics Readings: Connection to Thermodynamics and Derivation of Boltzmann Distribution ([PDF]({{< baseurl >}}/resources/appendix))
+Appendix to Session 21-24 Statistical Mechanics Readings: Connection to Thermodynamics and Derivation of Boltzmann Distribution ({{% resource_link e7b51076-ef1a-087f-af34-56d5ab224b5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

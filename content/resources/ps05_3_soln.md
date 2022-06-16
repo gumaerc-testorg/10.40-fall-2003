@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to Problem Set 5.
-file: /media/courses/10-40-chemical-engineering-thermodynamics-fall-2003/b50cf5e5d6c5aa9e25c1be8ad71d0d8e_ps05_3_soln.pdf
+file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/b50cf5e5d6c5aa9e25c1be8ad71d0d8e_ps05_3_soln.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: ps05_3_soln.pdf
 uid: b50cf5e5-d6c5-aa9e-25c1-be8ad71d0d8e
 ---
+Solution to Problem Set 5.
+
