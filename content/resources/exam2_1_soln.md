@@ -5,6 +5,7 @@ file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/352225ced5998
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam2_1_soln.pdf
 uid: 352225ce-d599-887b-ac25-8a7d628cdadc
 ---
 Solution to 2nd Exam.
-

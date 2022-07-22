@@ -5,6 +5,7 @@ file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/fdd38846e422a
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture21notes.pdf
 uid: fdd38846-e422-a48a-9b87-2a045e9f65f7
 ---
 This handout contains supplementary notes for Lecture 21.
-

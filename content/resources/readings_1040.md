@@ -5,6 +5,7 @@ file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3af51c69599fc
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: readings_1040.pdf
 uid: 3af51c69-599f-cedf-d67c-6aa72d70d8f5
 ---
 Reading Material for the course " Chemical Engineering Thermodynamics".
-

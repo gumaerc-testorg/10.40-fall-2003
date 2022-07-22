@@ -5,6 +5,7 @@ file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/b50cf5e5d6c5a
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps05_3_soln.pdf
 uid: b50cf5e5-d6c5-aa9e-25c1-be8ad71d0d8e
 ---
 Solution to Problem Set 5.
-

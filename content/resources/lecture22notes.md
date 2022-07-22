@@ -5,6 +5,7 @@ file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/99ccbfb9afa19
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture22notes.pdf
 uid: 99ccbfb9-afa1-988d-3ce2-78c88c883c09
 ---
 This handout contains supplementary notes for Lecture 22.
-
