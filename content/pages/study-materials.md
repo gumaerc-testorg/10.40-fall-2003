@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Supplementary Notes for Course Text and Additional Topical Notes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: d7e11923-9c0e-66f8-00fb-855b28c88cbb
 ---
@@ -33,7 +36,7 @@ SUPPLEMENTARY NOTES
 1-3
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03))
+Ch 1-3 Supplementary Notes ({{% resource_link 3cfb0d0b-f653-a61f-ae75-544cb315bc7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +48,7 @@ Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03))
 1-3 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03))
+Ch 1-3 Supplementary Notes ({{% resource_link 3cfb0d0b-f653-a61f-ae75-544cb315bc7b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -57,7 +60,7 @@ Ch 1-3 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnote_ch01_03))
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
+Ch 4 Supplementary Notes ({{% resource_link aea59133-e5a4-de86-7570-0ec04eef57fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -69,7 +72,7 @@ Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
 4 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
+Ch 4 Supplementary Notes ({{% resource_link aea59133-e5a4-de86-7570-0ec04eef57fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +84,7 @@ Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
 4 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
+Ch 4 Supplementary Notes ({{% resource_link aea59133-e5a4-de86-7570-0ec04eef57fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +96,7 @@ Ch 4 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch04))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 14 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch14))
+Ch 14 Supplementary Notes ({{% resource_link 32a9975c-e77d-dabe-4e09-f0d36547aee8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +108,7 @@ Ch 14 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch14))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+Ch 5 Supplementary Notes ({{% resource_link e61ddfde-af6c-4539-f98e-0961bd6ece6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +120,7 @@ Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
 5 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+Ch 5 Supplementary Notes ({{% resource_link e61ddfde-af6c-4539-f98e-0961bd6ece6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +132,7 @@ Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
 5 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+Ch 5 Supplementary Notes ({{% resource_link e61ddfde-af6c-4539-f98e-0961bd6ece6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -141,7 +144,7 @@ Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
 5 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
+Ch 5 Supplementary Notes ({{% resource_link e61ddfde-af6c-4539-f98e-0961bd6ece6b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +156,7 @@ Ch 5 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch05))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
+Ch 8 Supplementary Notes ({{% resource_link 5f036f2e-abaf-5709-5fde-e540ee632bc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -165,7 +168,7 @@ Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
 8 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
+Ch 8 Supplementary Notes ({{% resource_link 5f036f2e-abaf-5709-5fde-e540ee632bc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -177,7 +180,7 @@ Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
 8 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
+Ch 8 Supplementary Notes ({{% resource_link 5f036f2e-abaf-5709-5fde-e540ee632bc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -189,7 +192,7 @@ Ch 8 Supplementary Notes ([PDF]({{< baseurl >}}/resources/chapter8))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+Ch 9 Supplementary Notes ({{% resource_link dc17c6b7-1972-2541-4f77-39ced80a76fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,7 +204,7 @@ Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
 9 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+Ch 9 Supplementary Notes ({{% resource_link dc17c6b7-1972-2541-4f77-39ced80a76fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,7 +216,7 @@ Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
 9 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+Ch 9 Supplementary Notes ({{% resource_link dc17c6b7-1972-2541-4f77-39ced80a76fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -225,7 +228,7 @@ Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
 9 (cont.)
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
+Ch 9 Supplementary Notes ({{% resource_link dc17c6b7-1972-2541-4f77-39ced80a76fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -237,7 +240,7 @@ Ch 9 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch09))
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Ch 17 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch17))
+Ch 17 Supplementary Notes ({{% resource_link 74c22970-1d6f-d8f9-f1cb-c41a699d8c1e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,12 +250,12 @@ Ch 17 Supplementary Notes ([PDF]({{< baseurl >}}/resources/suppnotes_ch17))
 Additional Topical Notes
 ------------------------
 
-Course Primary Nomenclature and Symbols ([PDF]({{< baseurl >}}/resources/course_prim_nom))
+Course Primary Nomenclature and Symbols ({{% resource_link 81f3e8eb-504c-688d-f0df-ad4a448ee692 "PDF" %}})
 
-Course Definitions/Glossary ([PDF]({{< baseurl >}}/resources/course_desc))
+Course Definitions/Glossary ({{% resource_link 9e162da0-377b-e053-ee97-eec4ee24893d "PDF" %}})
 
-Combinatorics ([PDF]({{< baseurl >}}/resources/combinatorics))
+Combinatorics ({{% resource_link 68f3d55d-eb5f-61a3-97e9-58d62483b300 "PDF" %}})
 
-Four postulates of Classical Thermodynamics ([PDF]({{< baseurl >}}/resources/four_post_class))
+Four postulates of Classical Thermodynamics ({{% resource_link 775450da-fb2d-16a5-b45f-72d126030f67 "PDF" %}})
 
-Energy and the 1st Law Treatment: Summary of Mathematical Forms ([PDF]({{< baseurl >}}/resources/energy_1st_law))
+Energy and the 1st Law Treatment: Summary of Mathematical Forms ({{% resource_link 7e8d17f0-9d28-d271-38df-95a60c37db4a "PDF" %}})

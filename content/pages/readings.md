@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 127a7954-257b-d858-50e7-bfdedfeb3e92
 ---
@@ -48,7 +52,7 @@ Handouts
 {{< tdclose >}}
 {{< tdopen >}}
 Postulatory Approach  
-1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO2 Fire Extinguisher\]
+1st Law Concepts (Work, Heat, and Energy); Closed and Open System Treatments, Including PE Plus KE Effects; Tank Blowdown \[Demo - CO{{< sub "2" >}} Fire Extinguisher\]
 {{< tdclose >}}
 {{< tdopen >}}
 1 (all sections), 2 (all sections), 3.1-3.8
@@ -125,7 +129,7 @@ Calculus of Thermodynamics; Gibbs Fundamental Equation; Graphical Interpretation
 {{< tdopen >}}
 5.1-5.4  
   
-Thermodynamic Properties of Pure Materials ([PDF]({{< baseurl >}}/resources/class_8))
+Thermodynamic Properties of Pure Materials ({{% resource_link e5ac6401-3a78-1cb7-c31c-57bdeea5dddf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +210,7 @@ Pure Component Properties; Fundundamental Equation; Theorem of Corresponding Sta
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity Cp\*
+Real Fluid Properties; _PVTN_ Equations of State; Ideal Gas Heat Capacity C{{< sub "p" >}}\*
 {{< tdclose >}}
 {{< tdopen >}}
 8.3-8.4
@@ -242,7 +246,7 @@ Mixtures; _PVTN EOSs;_ Partial Molar Properties; Gibbs-Duhem Relation; Mixing Fu
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; Δ_GEX_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
+Ideal Solution Conditions; Excess Properties; Activity and Activity Coefficients; Δ_G{{< sup "EX" >}}_\-γi Models (See Table 11.1); Standard States; Thermodynamic Consistency using the Gibbs-Duhem Relation
 {{< tdclose >}}
 {{< tdopen >}}
 9.8, 11.2, 11.4, 11.7, 11.9
@@ -301,7 +305,7 @@ Fundamental Principles of Quantum and Classical Statistical Mechanics - N-body P
 {{< tdopen >}}
 10.1, handouts  
   
-Fundamental Principles of Quantum and Classical Statistical Mechanics ([PDF]({{< baseurl >}}/resources/lecture21notes))
+Fundamental Principles of Quantum and Classical Statistical Mechanics ({{% resource_link fdd38846-e422-a48a-9b87-2a045e9f65f7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -315,7 +319,7 @@ Postulates of Statistical Mechanics; Gibbs Ensembles - Micro-canonical and Canon
 {{< tdopen >}}
 10.1, handouts  
   
-Postulates of Statistical Mechanics, Gibbs Ensembles ([PDF]({{< baseurl >}}/resources/lecture22notes))
+Postulates of Statistical Mechanics, Gibbs Ensembles ({{% resource_link 99ccbfb9-afa1-988d-3ce2-78c88c883c09 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,7 +333,7 @@ Computation of Ideal Gas Properties from Intramolecular Effects - Translation, R
 {{< tdopen >}}
 10.1, handouts  
   
-Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))
+Computation of the Properties of Ideal Gases ({{% resource_link b50ddddb-c5f6-0b83-7b06-d608428a017b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -343,9 +347,9 @@ Computation of Ideal Gas Properties from Intramolecular Effects - Translation, R
 {{< tdopen >}}
 10.1, handouts  
   
-Computation of the Properties of Ideal Gases ([PDF]({{< baseurl >}}/resources/lecture23notes))  
+Computation of the Properties of Ideal Gases ({{% resource_link b50ddddb-c5f6-0b83-7b06-d608428a017b "PDF" %}})  
   
-Appendix to Session 21-24 Statistical Mechanics Readings: Connection to Thermodynamics and Derivation of Boltzmann Distribution ([PDF]({{< baseurl >}}/resources/appendix))
+Appendix to Session 21-24 Statistical Mechanics Readings: Connection to Thermodynamics and Derivation of Boltzmann Distribution ({{% resource_link e7b51076-ef1a-087f-af34-56d5ab224b5e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
