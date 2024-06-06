@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to Problem Set 8.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3346b39ad24367f6b2f4e1647c4ecb07_ps08_1_soln.pdf
+file_size: 54198
 file_type: application/pdf
 learning_resource_types:
 - Assignments
