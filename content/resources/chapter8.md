@@ -5,6 +5,7 @@ description: This handout contains Supplementary Notes for Chapter 8. These note
   the 3rd edition of 'Thermodynamics and Its Applications', and discussed in our graduate
   thermodynamics class (10.40).
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/5f036f2eabaf57095fdee540ee632bc0_chapter8.pdf
+file_size: 45635
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

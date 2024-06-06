@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to Final Exam.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/ce32911a69838a9ef10bc4c79130d92c_exam_final_3_sol.pdf
+file_size: 64393
 file_type: application/pdf
 learning_resource_types:
 - Exams

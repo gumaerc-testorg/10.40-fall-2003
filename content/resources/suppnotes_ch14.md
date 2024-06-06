@@ -5,6 +5,7 @@ description: This handout contains Supplementary Notes for Chapters 14. These no
   the 3rd edition of 'Thermodynamics and Its Applications', and discussed in our graduate
   thermodynamics class (10.40).
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/32a9975ce77ddabe4e09f0d36547aee8_suppnotes_ch14.pdf
+file_size: 346474
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
