@@ -5,6 +5,7 @@ description: This handout contains Supplementary Notes for Chapters 1-3. These n
   the 3rd edition of 'Thermodynamics and Its Applications', and discussed in our graduate
   thermodynamics class (10.40).
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3cfb0d0bf653a61fae75544cb315bc7b_suppnote_ch01_03.pdf
+file_size: 240047
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

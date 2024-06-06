@@ -5,6 +5,7 @@ description: 'Homework assignment. Unless otherwise noted, problems assigned by 
   Thermodynamics and Its Applications. Upper Saddle River, NJ: Prentice Hall PTR,
   1997. ISBN: 0-13-915356-X.'
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/c972561349f49ca93f1af1a5a0c09ee3_problem_set11.pdf
+file_size: 41253
 file_type: application/pdf
 learning_resource_types:
 - Assignments

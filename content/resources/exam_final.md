@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems from the final examination.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3ff80a2ad69f9f26730777582bfbdef0_exam_final.pdf
+file_size: 111400
 file_type: application/pdf
 learning_resource_types:
 - Exams

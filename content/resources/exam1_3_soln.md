@@ -2,6 +2,7 @@
 content_type: resource
 description: Solution to 1st Exam.
 file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/b301e7984e799ed1336b87137638158a_exam1_3_soln.pdf
+file_size: 224300
 file_type: application/pdf
 learning_resource_types:
 - Exams
