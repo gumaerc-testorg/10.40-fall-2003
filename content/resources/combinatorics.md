@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplementary notes on combinatorics.
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/68f3d55deb5f61a397e958d62483b300_combinatorics.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/68f3d55deb5f61a397e958d62483b300_combinatorics.pdf
 file_size: 23418
 file_type: application/pdf
 learning_resource_types: []
