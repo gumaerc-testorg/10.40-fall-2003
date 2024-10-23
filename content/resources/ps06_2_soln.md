@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to Problem Set 6.
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/3aa669c318e54e382ac0cc58cffa2cbd_ps06_2_soln.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/3aa669c318e54e382ac0cc58cffa2cbd_ps06_2_soln.pdf
 file_size: 39862
 file_type: application/pdf
 learning_resource_types:

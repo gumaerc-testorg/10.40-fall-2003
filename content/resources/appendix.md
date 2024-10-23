@@ -3,7 +3,7 @@ content_type: resource
 description: Appendix to Lectures 21 through 24 covering canonical ensemble, maximum
   term method, most probable distribution, connection to thermodynamics, and relation
   of thermodynamic quantities to Q.
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/e7b51076ef1a087faf3456d5ab224b5e_appendix.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e7b51076ef1a087faf3456d5ab224b5e_appendix.pdf
 file_size: 146524
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems from the second examination.
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/e2c3f427b615772d4b23d9966705d78e_exam_2.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e2c3f427b615772d4b23d9966705d78e_exam_2.pdf
 file_size: 104908
 file_type: application/pdf
 learning_resource_types:
