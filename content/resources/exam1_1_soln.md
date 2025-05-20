@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to 1st Exam.
-file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/4b85c576a21b5e565c852889e40ad9f0_exam1_1_soln.pdf
+file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/4b85c576a21b5e565c852889e40ad9f0_exam1_1_soln.pdf
 file_size: 189654
 file_type: application/pdf
 learning_resource_types:
