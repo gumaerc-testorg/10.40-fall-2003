@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to Final Exam.
-file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e890ca40f23b4f4363f4568a071ed2b6_exam_final_1_sol.pdf
+file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/e890ca40f23b4f4363f4568a071ed2b6_exam_final_1_sol.pdf
 file_size: 56407
 file_type: application/pdf
 learning_resource_types:
