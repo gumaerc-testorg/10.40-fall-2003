@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to 2nd Exam.
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/cd58187af54633e0952303004c462fd3_exam2_5_soln.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/cd58187af54633e0952303004c462fd3_exam2_5_soln.pdf
 file_size: 46732
 file_type: application/pdf
 learning_resource_types:
