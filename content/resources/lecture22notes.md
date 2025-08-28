@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This handout contains supplementary notes for Lecture 22.
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/99ccbfb9afa1988d3ce278c88c883c09_lecture22notes.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/99ccbfb9afa1988d3ce278c88c883c09_lecture22notes.pdf
 file_size: 102724
 file_type: application/pdf
 learning_resource_types:

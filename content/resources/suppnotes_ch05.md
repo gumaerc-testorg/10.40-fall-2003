@@ -4,7 +4,7 @@ description: This handout contains Supplementary Notes for Chapters 5. These not
   are intended to summarize and complement the material presented in our textbook,
   the 3rd edition of 'Thermodynamics and Its Applications', and discussed in our graduate
   thermodynamics class (10.40).
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/e61ddfdeaf6c4539f98e0961bd6ece6b_suppnotes_ch05.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/e61ddfdeaf6c4539f98e0961bd6ece6b_suppnotes_ch05.pdf
 file_size: 120364
 file_type: application/pdf
 learning_resource_types: []

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Calendar for the course " Chemical Engineering Thermodynamics".
-file: /courses/10-40-chemical-engineering-thermodynamics-fall-2003/60cb3eff4b796afbf3cb60d6d0cdbfa1_calendar_1040.pdf
+file: /ol-ocw-studio-app/courses/10-40-chemical-engineering-thermodynamics-fall-2003/60cb3eff4b796afbf3cb60d6d0cdbfa1_calendar_1040.pdf
 file_size: 120839
 file_type: application/pdf
 learning_resource_types: []
